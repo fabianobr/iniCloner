@@ -1,0 +1,5 @@
+*.~dpr
+*.dcu
+*.~dfm
+*.~pas
+*.exe
